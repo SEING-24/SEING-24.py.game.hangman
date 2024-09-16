@@ -1,8 +1,8 @@
-# Proyecto Juego -
+# Proyecto Juego - Ahorcado (HangMan)
 
 ## Descripción del proyecto
 
-El presente proyecto implementa el Juego 
+El presente proyecto implementa el Juego del Ahorcado.
 
 # Trabajo en Equipo
 
